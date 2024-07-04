@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.commonWidth{
+  @apply w-11/12 lg:w-9/12 mx-auto;
+}
+
+.fullCenter{
+  @apply flex flex-col justify-center items-center;
+}
