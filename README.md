@@ -1,6 +1,7 @@
 
 ## Getting Started
-Ensure Node is installed in your device.
+- Ensure Node is installed in your device.
+- Clone this repo in your local device.
 
 ### Install the required packages
 ```bash
